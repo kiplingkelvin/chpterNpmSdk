@@ -1,6 +1,6 @@
 {
     "name": "@kipling/chpter",
-    "version": "0.1.4",
+    "version": "0.1.6",
     "description": "chpter.co npm sdk for easy Payments and Payouts Integration.",
     "license": "MIT",
     "repository": "kiplingkelvin/chpterNpmSdk",

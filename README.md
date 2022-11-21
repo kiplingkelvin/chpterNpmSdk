@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/github/license/kiplingkelvin/chpterNpmSdk?style=flat-square)
 ![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/kiplingkelvin/chpterNpmSdk?style=flat-square)
 
-Removes all spaces from a string.
+Seamlessly accept payments from anywhere in the world.
 
 ## Install
 
@@ -13,7 +13,7 @@ Removes all spaces from a string.
 npm install @kipling/chpter
 ```
 ## NOTE
-Add the following files to your .env (Ensure it is named as the examples bellow)
+Add the following files to your .env (Ensure it is named as the examples below)
 ```env
 CHPTER_CLIENT_DOMAIN=
 CHPTER_TOKEN=
@@ -34,10 +34,10 @@ const chpter = require("@kipling/chpter");
 
 customer = {
         "payment_method": "MPesa",
-        "full_name": "John Doe",
+        "full_name": "Albert Chela",
         "location": "Nairobi",
         "phone_number": "254706347307",
-        "email": "johndoe@mail.com"  };
+        "email": "albertchela@mail.com"  };
 
 products = [{
         "product_id": "08",
@@ -65,10 +65,10 @@ const chpter = require("@kipling/chpter");
 
 customer = {
         "payment_method": "MPesa",
-        "full_name": "John Doe",
+        "full_name": "Albert Chela",
         "location": "Nairobi",
         "phone_number": "254706347307",
-        "email": "johndoe@mail.com"  };
+        "email": "albertchela@mail.com"    };
 
 products = [{
         "product_id": "08",
