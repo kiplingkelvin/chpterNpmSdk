@@ -36,7 +36,7 @@ customer = {
         "payment_method": "MPesa",
         "full_name": "Albert Chela",
         "location": "Nairobi",
-        "phone_number": "254706347307",
+        "phone_number": "254700000000",
         "email": "albertchela@mail.com"  };
 
 products = [{
@@ -67,7 +67,7 @@ customer = {
         "payment_method": "MPesa",
         "full_name": "Albert Chela",
         "location": "Nairobi",
-        "phone_number": "254706347307",
+        "phone_number": "254700000000",
         "email": "albertchela@mail.com"    };
 
 products = [{
