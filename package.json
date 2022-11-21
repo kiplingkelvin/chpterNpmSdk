@@ -1,0 +1,17 @@
+{
+    "name": "@kipling/chpter",
+    "version": "0.0.1",
+    "description": "chpter.co npm sdk for easy Payments and Payouts Integration.",
+    "license": "MIT",
+    "repository": "kiplingkelvin/chpterNpmSdk",
+    "main": "index.js",
+    "keywords": [
+        "payments",
+        "npm",
+        "package",
+        "chpter",
+        "mpesa",
+        "card",
+        "payments gateway"
+    ]
+}
