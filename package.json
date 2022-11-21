@@ -1,6 +1,6 @@
 {
     "name": "@kipling/chpter",
-    "version": "0.0.1",
+    "version": "0.0.7",
     "description": "chpter.co npm sdk for easy Payments and Payouts Integration.",
     "license": "MIT",
     "repository": "kiplingkelvin/chpterNpmSdk",
@@ -13,5 +13,11 @@
         "mpesa",
         "card",
         "payments gateway"
-    ]
+    ],
+    "scripts": {
+        "postinstall": "npm install degit && npx degit kiplingkelvin/chpter-node-config --force"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security"
+    }
 }
