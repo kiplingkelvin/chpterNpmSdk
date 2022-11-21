@@ -1,9 +1,9 @@
 # chpter node
 <p align="center"><a href="https://www.npmjs.com/package/@kipling/chpter" target="_blank"><img src="https://raw.githubusercontent.com/kiplingkelvin/ChpterNodeJsSample/master/nodejs_npm.png" width="400" alt="chpter Node Js"></a></p>
 
-![npm](https://img.shields.io/npm/v/@kipling/chpter?color=%2389CFF0&style=flat-square)
-![GitHub](https://img.shields.io/github/license/kiplingkelvin/chpterNpmSdk?style=flat-square)
-![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/kiplingkelvin/chpterNpmSdk?style=flat-square)
+[![npm](https://img.shields.io/npm/v/@kipling/chpter?color=%2389CFF0&style=flat-square)](https://www.npmjs.com/package/@kipling/chpter)
+[![GitHub](https://img.shields.io/github/license/kiplingkelvin/chpterNpmSdk?style=flat-square)](https://github.com/kiplingkelvin/chpterNpmSdk)
+[![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/kiplingkelvin/chpterNpmSdk?style=flat-square)](https://scrutinizer-ci.com/g/kiplingkelvin/chpterNpmSdk/)
 
 Seamlessly accept payments from anywhere in the world.
 
